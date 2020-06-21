@@ -1,5 +1,5 @@
 # task-group-msapp
-(Watch This in RAW PLEASE)
+(Watch This in RAW please)
 For Starting the MicroServices App-
 •Firstly, start the admin server and discovery service.
 •Then start the zuul proxy.
