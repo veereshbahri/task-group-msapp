@@ -1,9 +1,9 @@
 # task-group-msapp
 For Starting the MicroServices App-
 •Firstly, start the admin server and discovery service.
-•Then start the zuul proxy
-•Afterwards the main service i.e task-group is run
-•Which then followed by some h2 tables data insertion
+•Then start the zuul proxy.
+•Afterwards the main service i.e task-group is run.
+•Which then followed by some h2 tables data insertion.
 •At last all the other dashboard services can be run.
 (Group-dashboard and task-dashboard are fot viewing data. Group-dashboard2 and task-dashboard2 are for creation, updation, deletion of data)
 
