@@ -6,7 +6,7 @@ For Starting the MicroServices App-
 •Afterwards the main service i.e task-group is run.
 •Which then followed by some h2 tables data insertion.
 •At last all the other dashboard services can be run.
-(Group-dashboard and task-dashboard are fot viewing data. Group-dashboard2 and task-dashboard2 are for creation, updation, deletion of data)
+(Group-dashboard and task-dashboard are for viewing data. Group-dashboard2 and task-dashboard2 are for creation, updation, deletion of data)
 
 
 For insertion of data into the tables these could be used-
