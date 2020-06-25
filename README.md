@@ -1,6 +1,6 @@
 # task-group-msapp
-(Watch This in RAW please)
-For Starting the MicroServices App-
+*(Watch This in RAW please)*
+**For Starting the MicroServices App**-
 •Firstly, start the admin server and discovery service.
 •Then start the zuul proxy.
 •Afterwards the main service i.e task-group is run.
@@ -9,7 +9,7 @@ For Starting the MicroServices App-
 (Group-dashboard and task-dashboard are for viewing data. Group-dashboard2 and task-dashboard2 are for creation, updation, deletion of data)
 
 
-For insertion of data into the tables these could be used-
+*For insertion of data into the tables these could be used*-
 For table of Groups-
 --INSERT INTO GROUPS(GROUP_ID,GROUP_NAME,GROUP_STATUS) VALUES(1,'Daily','Active');
 --INSERT INTO GROUPS(GROUP_ID,GROUP_NAME,GROUP_STATUS) VALUES(2,'Education','Active');
